@@ -8,4 +8,3 @@ gspread-dataframe
 google-auth
 google-auth-oauthlib
 oauth2client
-git+https://github.com/streamlit/gsheets-connection
