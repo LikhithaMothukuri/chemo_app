@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-from streamlit_gsheets import GSheetsConnection
 from project_pages.specific_options import specific_options
 from project_pages.patient_id import patient_id
 from project_pages.utils import load_model
